@@ -1,0 +1,27 @@
+body {
+	background-color: lightgreen;
+}
+p {
+	color: red;
+	font-size: 15px;
+	font-style: italic;
+}
+h1 
+{
+	color: beige;
+	text-align: center;
+	font-size: 25px;
+}
+
+li {
+	color: purple;
+	font-size: 25px;
+	border-bottom: black;
+}
+.image-style{
+	height: 300px;
+	margin: 20px;
+	border: 1px solid red;
+	padding: 15px;
+	box-shadow: 5px 5px gray;
+}
